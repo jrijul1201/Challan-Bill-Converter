@@ -3,12 +3,18 @@
 ## Description:
 This C++ program has been specifically made for tallying quantity of raw material received and sent after assembly.
 
+
 __.txt files__---->
+
 *challan.txt*: sample file for data containing quantity of raw materials received.
+
 *bill.txt*: sample file for data containing quantity of assembled materials sent.
+
 *final.txt*: sample file of tallied data using sample challan and bill data.
 
+
 __.cpp file__---->
+
 *main.cpp*: contains c++ code for running the program.
 
 ## Instructions for Use:
