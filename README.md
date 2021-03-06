@@ -1,6 +1,6 @@
 # Challan-Bill-Converter
 
-####Description:
+#### Description:
 This C++ program can be used to make
 
-####Instructions for Use:
+#### Instructions for Use:
