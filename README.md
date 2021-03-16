@@ -1,4 +1,4 @@
-# Challan-Bill-Converter
+# Tally Challan Bill
 
 ## Description:
 This C++ program has been specifically made for tallying quantity of raw material received and sent after assembly.
